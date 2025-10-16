@@ -33,7 +33,7 @@
 - `/proc` — process & kernel info (procfs)  
 - `/sys` — kernel/device sysfs
 
-![HRC](images/diagram.png)
+![HRC](img/fJlVaulJb.png)
 
 ---
 
